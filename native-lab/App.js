@@ -6,7 +6,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Text, View, Image, Button, FlatList, Animated, Pressable, SafeAreaView } from 'react-native';
 import { appStyles } from './styles/appStyle'
 import back from './assets/images/littleNightmares2.jpg'
-
+//=//
 
 const cardImages = [
 

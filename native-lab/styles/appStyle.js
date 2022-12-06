@@ -1,5 +1,5 @@
 
-import { Dimensions, StyleSheet } from 'react-native';
+import { StyleSheet } from 'react-native';
 
 
 export const appStyles = StyleSheet.create({
@@ -90,6 +90,10 @@ export const appStyles = StyleSheet.create({
   cardWrapper: {
     padding: 5
   },
+  cardTemp: {
+    height: 75,
+    width: 75
+  }
 
 })
 
